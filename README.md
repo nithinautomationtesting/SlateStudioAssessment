@@ -17,3 +17,9 @@
 #If device is connected it will show up the connected device else emulator will be displayed(if configured)
 #select and click OK
 #The test case will start running and status can be verified from console section
+#Folder Structure
+##Profiles - to set global variables
+##Test Cases to create test cases
+##Object Repository - To create objects and API requests
+##API requests are created under API folder
+
