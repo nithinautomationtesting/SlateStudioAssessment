@@ -6,7 +6,6 @@
 #Appium
 #Android Studio to create virtual devices(emualators)
 
-
 Steps
 
 Install Katalon Studio(Download zip and extract - register using email id)
