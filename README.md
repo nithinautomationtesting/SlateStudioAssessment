@@ -1,0 +1,2 @@
+# SlateStudioAssessment
+Automation
