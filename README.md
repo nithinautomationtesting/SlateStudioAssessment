@@ -20,6 +20,6 @@
 #Folder Structure
 ##Profiles - to set global variables
 ##Test Cases to create test cases
-##Object Repository - To create objects and API requests
+##Object Repository  To create objects and API requests
 ##API requests are created under API folder
 
