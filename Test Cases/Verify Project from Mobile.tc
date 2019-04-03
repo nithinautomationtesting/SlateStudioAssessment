@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- An automation script to help user getting started with Mobile automation testing.
+- Script Content: Click &quot;START ALARM SERVICE&quot; and click &quot;STOP ALARM SERVICE&quot;, verify alert show is correct</description>
+   <name>Verify Project from Mobile</name>
+   <tag></tag>
+   <comment>Test : Create Project
+Given that user has created project and application is started
+And he login to the App
+Then he verifies project created
+Then verifies project name</comment>
+   <testCaseGuid>7863351b-9de3-4c4f-823d-9497925136c3</testCaseGuid>
+</TestCaseEntity>
